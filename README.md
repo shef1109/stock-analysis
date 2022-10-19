@@ -1,4 +1,4 @@
-# Analysis of Refactoring VBA code and Performance Measurement
+# Analysis of Refactoring VBA Code and Performance Measurement
 
 ## Overview
 The purpose of this project was to help Steve, a recent college graduate in Finance, analyze several green energy stocks for his parents. Through the Module 2: VBA of Wall Street class activities, we created the original VBA code to list the stock ticker, total daily volume, and return for each stock in a given data set by simply clicking a button. However, Steve now wants to expand the dataset to include the entire stock market, which can take some time to execute using the original VBA code. Therefore, by refactoring the original VBA code through this project, we are hoping to make it more efficient and easier for Steve, and future users, to read. Both versions of the VBA code perform the following: 
